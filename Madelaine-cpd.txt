@@ -31,8 +31,6 @@ I missed this lesson due to an interview but having reviewed the recording. I le
 
 Github allows you to save changes, revert to previous versions and your codes secure. We can also send an alert/notifications via email.
 
-I created a new repository, added a README file, made changes to the file after which I commited the changes and then connected it to Github desktop.
-
 
 1.4 - 13/11/2020
 
