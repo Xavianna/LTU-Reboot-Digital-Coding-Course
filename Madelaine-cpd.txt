@@ -1,0 +1,58 @@
+1.0 - 09/11/2020
+
+The reboot digital coding course starts tomorrow.
+
+1.1 - 10/11/2020
+
+Reflection
+
+In today's session I learnt that the web development industry is a rewarding, lucrative and creative industry to get into.
+
+I also introduced myself to a class of strangers, this was initially a hard thing for me to do.
+
+Tha part that I enjoyed the most getting to know people across UK who are interested in coding. We had to introduce ourselves at the beginning.
+
+The part that I found hard was speaking out in a class full of strangers.
+
+After the lesson we watched a video about the internet and its terminologies.
+
+1.2 - 11/11/2020
+
+Today I had a refresher about the WWW, internet, client, server, DNS.
+
+We created a github account and also learnt about cloud computing.
+
+After the lesson, I installed visual studio code and Github desktop.
+
+
+1.3 - 12/11/2020
+
+I missed this lesson due to an interview but having reviewed the recording. I learnt ......
+
+Github allows you to save changes, revert to previous versions and your codes secure. We can also send an alert/notifications via email.
+
+
+1.4 - 13/11/2020
+
+I had some issues with Teams login earlier and the team had some other issues. Today I received my LTU login and am officially a student.
+
+Although, I missed yesterday's class, I was still able to catch up.
+
+Today I learnt how to add a file in visual studio code and committing changes to main on Github Desktop.
+
+I learnt more about freecodecamp and a mobile code learning app called https://getmimo.com/.
+
+We were introduced to a few websites including Youtubers who will teach us more about HTML, CSS, Javascript including understanding of the industry.
+
+The part I enjoyed most was knowing that there are so many free resources available to help me learn about coding.
+
+The part that I found hard was to find the resource that would suit my learning experience best.
+
+
+1.5 - 16/11/2020
+
+Today we learnt about HTML (Hyper Text Markup Language). We were shown how to view source code of a webpage - https://getbootstrap.com/. Then I created 3 tasks and explored the different html tags and added the HTML5 doctype so the website qualifies and is recognised as a HTML5 website. I also added a Live Server onto VSC as I missed the lesson on Thursday. This allowed me to "Go Live" and view the website I was working on a browser. 
+
+The part I enjoyed most was learning a few shortcuts that can be used during coding and that the html tags opens and closes automatically. This is very handy. We also learnt to add different heading sizes from h1 to h6 and variations to text to make it bold using <strong> </strong> and italic <em> </em>. We also learnt to add break spaces using <br> or <br />. To add HTML5 doctype type "!" then tab. To add all levels of heading type "h1+h2+h3+h4+h5+h6" then tab.
+
+I didn't particularly find anything hard in this lesson and I enjoyed it immensely. Still trying to access Thursday's lesson video.
