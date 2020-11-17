@@ -60,15 +60,16 @@ I didn't particularly find anything hard in this lesson and I enjoyed it immense
 
 1.6 - 17/11/2020
 
-Once the recording is available, I have to catchup on the first hour's lesson which I missed due to a hospital appointment. I also need to complete task 2.1.4.html.
+Today, I learnt about creating links to a webpage, to open it in a separate tab and to allow mailing to an email address when clicking on a link.
 
-Abosolute link?
-Relative link?
+Relative paths change depending on the page the link is on o.e. same directory or subdirectories (internal or local paths/folders; something I have direct access to).
 
-I learnt how to add images with an alt tag to describe the image into my website.
+Abosolute paths refer to a specific location of the file (external paths/file location; something I don't have direct access unless it is through a link). This includes the domain i.e. website link.
 
-I learnt to create unordered and ordered lists.
+I also learnt how to add images with an alt tag to describe the image into my website.
+
+Finally, I learnt to create unordered and ordered lists.
 
 I also learnt to add comments into my website.
 
-Today's take away task is to complete the HTML quiz and report on our scores. I was surprised by my score of 40/40 (100%) and completed in around 14 minutes.
+Today's take away task is to complete the HTML quiz and report on our scores. I was surprised to have scored 40/40 (100%). I completed the quiz in around 14 minutes.
