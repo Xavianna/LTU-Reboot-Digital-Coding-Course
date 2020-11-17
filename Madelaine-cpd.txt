@@ -57,3 +57,18 @@ Today we learnt about HTML (Hyper Text Markup Language). We were shown how to vi
 The part I enjoyed most was learning a few shortcuts that can be used during coding and that the html tags opens and closes automatically. This is very handy. We also learnt to add different heading sizes from h1 to h6 and variations to text to make it bold using <strong> </strong> and italic <em> </em>. We also learnt to add break spaces using <br> or <br />. To add HTML5 doctype type "!" then tab. To add all levels of heading type "h1+h2+h3+h4+h5+h6" then tab.
 
 I didn't particularly find anything hard in this lesson and I enjoyed it immensely. Still trying to access Thursday's lesson video.
+
+1.6 - 17/11/2020
+
+Once the recording is available, I have to catchup on the first hour's lesson which I missed due to a hospital appointment. I also need to complete task 2.1.4.html.
+
+Abosolute link?
+Relative link?
+
+I learnt how to add images with an alt tag to describe the image into my website.
+
+I learnt to create unordered and ordered lists.
+
+I also learnt to add comments into my website.
+
+Today's take away task is to complete the HTML quiz and report on our scores. I was surprised by my score of 40/40 (100%) and completed in around 14 minutes.
