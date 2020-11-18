@@ -1,3 +1,7 @@
 body{
     background-color: honeydew;
 }
+
+ul li a strong {
+	color: purple
+}
