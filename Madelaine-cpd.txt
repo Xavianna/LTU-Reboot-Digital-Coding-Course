@@ -73,3 +73,16 @@ Finally, I learnt to create unordered and ordered lists.
 I also learnt to add comments into my website.
 
 Today's take away task is to complete the HTML quiz and report on our scores. I was surprised to have scored 40/40 (100%). I completed the quiz in around 14 minutes.
+
+1.7 - 18/11/2020
+
+Today, I learnt to style my website using CSS. We created 4 tasks Task 2.2.1 - 2.2.4 and 4 different stylesheets to connect them to the appropriate html file. We had to save after every change to keep track of what changes was made.
+
+To add the css link it is easy to type "link" then press tab.
+
+The part I enjoyed most was to learn about being able to set specific styles into the stylesheet and website. Also, changing the background colour of the website is always fun.
+
+**Catchup session question**
+Question for Luke about html. html vs htm file extension?
+Old way of naming the website is .htm but new ones are .html.
+We went through some free learning websites and Luke's CSS & Javascript cheatsheet and other useful repositories.
