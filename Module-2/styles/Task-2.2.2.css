@@ -5,3 +5,11 @@ body{
 a{
     color: pink;
 }
+
+strong{
+    color: red
+}
+
+em{
+    color: blue
+}
