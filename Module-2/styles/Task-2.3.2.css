@@ -3,3 +3,13 @@
     font-weight: bold;
     text-decoration: underline;
 }
+
+h1 span{
+    font-style: Arial;
+    color: red;
+}
+
+p span{
+    color: pink;
+    font-style: italic;
+}
