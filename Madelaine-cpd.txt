@@ -86,3 +86,23 @@ The part I enjoyed most was to learn about being able to set specific styles int
 Question for Luke about html. html vs htm file extension?
 Old way of naming the website is .htm but new ones are .html.
 We went through some free learning websites and Luke's CSS & Javascript cheatsheet and other useful repositories.
+
+1.8 - 19/11/2020
+
+Today I learnt about creating classes and ids in CSS. How to apply them into the html page.
+
+I discovered more shortcuts for VSC.
+div#header [tab] to create the whole area
+div#footer{lorem} [{} will display word in between as content]
+
+I also learnt about inline (span) and block (div) elements.
+
+I learnt new HTML5 codes for creating block elements instead of using <div> tags.
+<header></header>
+<main></main>
+<aside></aside>
+<footer></footer>
+
+Then we created interactive links where the colour (and size) would change when the mouse hovers over the word and when the site was visited.
+
+The lesson ended with how to create page elements such as borders, padding, margin and site contents.
