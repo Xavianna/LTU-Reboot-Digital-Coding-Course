@@ -106,3 +106,20 @@ I learnt new HTML5 codes for creating block elements instead of using <div> tags
 Then we created interactive links where the colour (and size) would change when the mouse hovers over the word and when the site was visited.
 
 The lesson ended with how to create page elements such as borders, padding, margin and site contents.
+
+1.9 - 20/11/2020
+
+Today I learnt how to add borders, margins and paddings in css.
+
+Relative positioning - Moving an item/element from an area from its original position.
+
+Toggle commenting on VSC ctrl + / (Useful shortcut tip).
+
+Absolute positioning - take the element out of the normal flow and position it in relation to the window (or the closest non-static element).
+
+<style></style> 
+The tags above are placed within the <header></header> tag. It is essentially css within the HTML file. Coding everything in one html page is for speed but not recommended.
+
+If position: relative is being removed from the parent class, the child class will look at the html (grandparent) rule which means that the child box will go outside the parent box when margins and paddings are removed. It will not be contained within the parent class anymore.
+
+Setting a div space/container then set image container in css so the image will take up the space of what is specified in the div container.
