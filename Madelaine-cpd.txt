@@ -123,3 +123,37 @@ The tags above are placed within the <header></header> tag. It is essentially cs
 If position: relative is being removed from the parent class, the child class will look at the html (grandparent) rule which means that the child box will go outside the parent box when margins and paddings are removed. It will not be contained within the parent class anymore.
 
 Setting a div space/container then set image container in css so the image will take up the space of what is specified in the div container.
+
+
+1.10 - 23/11/2020
+
+Float - assigning an element to a corner.
+
+Clear - Ensuring that the element is clear from left, right or both sides of the float area.
+
+CSS Frameworks - helps us with common tasks such as
+- floating, centering elements
+- Developing for different screen sizes and ratios
+- Keeping code tidy
+- Resetting styles to a standard 'starting position'
+
+Learnt line-height: added some space before the (word) line.
+
+Styling img and paragraph tags separately within a section.
+
+Added google fonts to our html and stylesheet. https://fonts.google.com/
+
+We learnt more about websites where we can import css and symbols from:
+- https://tailwindcss.com/
+- https://dev.w3.org/html5/html-author/charref
+
+We also learnt how to add image locally.
+
+
+Take away task 2.4.6
+
+HTML Quiz - Already 100% so won't retake. 
+
+CSS Quiz - https://www.w3schools.com/css/css_quiz.asp (25 questions)
+
+Results - 
