@@ -1,8 +1,8 @@
-1.0 - 09/11/2020
+Lesson 1.0 - 09/11/2020
 
 The reboot digital coding course starts tomorrow.
 
-1.1 - 10/11/2020
+Lesson 1.1 - 10/11/2020 (HTML)
 
 Reflection
 
@@ -16,7 +16,7 @@ The part that I found hard was speaking out in a class full of strangers.
 
 After the lesson we watched a video about the internet and its terminologies.
 
-1.2 - 11/11/2020
+Lesson 1.2 - 11/11/2020
 
 Today I had a refresher about the WWW, internet, client, server, DNS.
 
@@ -25,7 +25,7 @@ We created a github account and also learnt about cloud computing.
 After the lesson, I installed visual studio code and Github desktop.
 
 
-1.3 - 12/11/2020
+Lesson 1.3 - 12/11/2020
 
 I missed this lesson due to an interview but having reviewed the recording. I learnt ......
 
@@ -33,7 +33,7 @@ Github allows you to save changes, revert to previous versions and your codes se
 
 I created a new repository, added a README file, made changes to the file after which I commited the changes and then connected it to Github desktop.
 
-1.4 - 13/11/2020
+Lesson 1.4 - 13/11/2020
 
 I had some issues with Teams login earlier and the team had some other issues. Today I received my LTU login and am officially a student.
 
@@ -50,7 +50,7 @@ The part I enjoyed most was knowing that there are so many free resources availa
 The part that I found hard was to find the resource that would suit my learning experience best.
 
 
-1.5 - 16/11/2020
+Lesson 1.5 - 16/11/2020
 
 Today we learnt about HTML (Hyper Text Markup Language). We were shown how to view source code of a webpage - https://getbootstrap.com/. Then I created 3 tasks and explored the different html tags and added the HTML5 doctype so the website qualifies and is recognised as a HTML5 website. I also added a Live Server onto VSC as I missed the lesson on Thursday. This allowed me to "Go Live" and view the website I was working on a browser. 
 
@@ -58,7 +58,7 @@ The part I enjoyed most was learning a few shortcuts that can be used during cod
 
 I didn't particularly find anything hard in this lesson and I enjoyed it immensely. Still trying to access Thursday's lesson video.
 
-1.6 - 17/11/2020
+Lesson 1.6 - 17/11/2020
 
 Today, I learnt about creating links to a webpage, to open it in a separate tab and to allow mailing to an email address when clicking on a link.
 
@@ -74,7 +74,7 @@ I also learnt to add comments into my website.
 
 Today's take away task is to complete the HTML quiz and report on our scores. I was surprised to have scored 40/40 (100%). I completed the quiz in around 14 minutes.
 
-1.7 - 18/11/2020
+Lesson 1.7 - 18/11/2020 (CSS)
 
 Today, I learnt to style my website using CSS. We created 4 tasks Task 2.2.1 - 2.2.4 and 4 different stylesheets to connect them to the appropriate html file. We had to save after every change to keep track of what changes was made.
 
@@ -87,7 +87,7 @@ Question for Luke about html. html vs htm file extension?
 Old way of naming the website is .htm but new ones are .html.
 We went through some free learning websites and Luke's CSS & Javascript cheatsheet and other useful repositories.
 
-1.8 - 19/11/2020
+Lesson 1.8 - 19/11/2020
 
 Today I learnt about creating classes and ids in CSS. How to apply them into the html page.
 
@@ -107,7 +107,7 @@ Then we created interactive links where the colour (and size) would change when 
 
 The lesson ended with how to create page elements such as borders, padding, margin and site contents.
 
-1.9 - 20/11/2020
+Lesson 1.9 - 20/11/2020
 
 Today I learnt how to add borders, margins and paddings in css.
 
@@ -125,7 +125,7 @@ If position: relative is being removed from the parent class, the child class wi
 Setting a div space/container then set image container in css so the image will take up the space of what is specified in the div container.
 
 
-1.10 - 23/11/2020
+Lesson 1.10 - 23/11/2020
 
 Float - assigning an element to a corner.
 
@@ -157,3 +157,97 @@ HTML Quiz - Already 100% so won't retake.
 CSS Quiz - https://www.w3schools.com/css/css_quiz.asp (25 questions)
 
 Results - 100% completed in around 16 mins.
+
+
+Lesson 1.11 (Javascript)
+
+Note that JavaScript (JS) is not Java.
+It is a client side scripting language, works in your browser rather on the server.
+Works with HTML & CSS to create dynamic webpages sites and apps. For example to respond to input from users.
+
+Used to not work outside of browsers but it does now.
+
+Named JavaScript for popularity purposes. Standardized in 1995.
+This class covers ES5, standardized in 2009. Went through many trials.
+
+http://www.ecma-international.org/ecma-262/5.1/
+
+You can create games using JavaScript.
+Track users and hold data with cookies.
+Interactive elements of web pages.
+Googlemaps (JavaScript & AJAX).
+Google docs and Google scripts.
+Tabs, Sliders, drop down menus.
+Drawing and Animation e.g. Adobe Suites.
+Game Development - Game Engine Unity. It uses C# + JavaScript.
+
+How do we use JavaScript?
+<script> </script> tags.
+<script src="js/file.js"></script>
+
+Computers are great at processing but rubbish at understanding. Instructions must be simple and clear. Think like a programmer.
+It can be irritating & difficult at first.
+
+How does JavaScript work?
+1) Visit a website with JS code.
+2) Browser reads the code line by line.
+3) Browser runs each line of code as it reads it.
+4) Based on the instructions, the browser performs caluculations and changes the HTML and CSS on the page.
+5) If the browser finds code it doesn't understand, it stops running and creates an error message.
+
+https://www.youtube.com/watch?v=cDA3_5982h8 
+
+https://developers.google.com/web/tools/chrome-devtools/console/
+
+Each instruction in JavaScript is a 'statement'.
+Commenting in JavaScript /* */ (for long comments) or // (for short single line comments)
+
+Statements to use
+Open a popup box - alert('');
+Display message in your console - console.log('');
+Add something to the page - document.write('');
+
+REPL - Read Evaluate Print Loop.
+
+A variable is a named container to hold a value that might change. Declaring/creating a variable.
+Like 'x' in algebra.
+
+var numberOfKittens;
+
+var numberOfKittens = 5;
+
+When you first create a variable, it does not have a value (it is undefined).
+You can set a value for a variable.
+Variables can hold different types of data.
+The value of a variable can change over time.
+Variable names is case sensitive.
+A new variable should have a unique name.
+Variable names need to start with a letter, dollar sign $, or underscore _
+Avoid reserved words such as https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
+Choose clarity and meaning for humans to read later.
+
+var numberOfKittens = 5;
+console.log(numberOfKittens);
+The results will return 5.
+
+Different data types:
+- String of characters (words)
+- Integer/floating point (whole value or decimal numbers)
+- Boolean (true/false)
+- Undefintd (random name)
+- Null (explicitly empty value);
+
+JavaScript automatically converts integers to floats.
+NaN = Not-A-Number
+
+Arithmetic Operators - Negation, Addition, Subtraction, Multiplication, Division, Modulus (%)
+Modulus for example is 1 for 4/3 (the remainder or 4 divide by 3)
+
+Concatenation operator (concatenate) is when you put 2 strings together to put it into 1 string using the operator +.
+Add space before and after string if a space is needed.
+
++= is to add things to the end of a string instead of creating a new variable.
+
+Combining Strings and Numbers using concatenate operator. Creating variables with strings and numbers and + to join them together.
+
+Learnt to use the toFixed() parameter as well.
