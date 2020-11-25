@@ -8,6 +8,14 @@
 <body>
     <script>
         var yearOfBirth = prompt('What year was you born?');
+
+        var date = new Date();
+
+        var year = date.getFullYear();
+
+        var predictedAge = year - yearOfBirth;
+
+        document.write('Your age is '+ predictedAge)
     </script>
     
 </body>
