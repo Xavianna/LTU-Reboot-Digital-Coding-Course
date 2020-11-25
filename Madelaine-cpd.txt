@@ -251,3 +251,14 @@ Add space before and after string if a space is needed.
 Combining Strings and Numbers using concatenate operator. Creating variables with strings and numbers and + to join them together.
 
 Learnt to use the toFixed() parameter as well. https://www.w3schools.com/jsref/jsref_tofixed.asp
+
+
+Lesson 1.11 (Javascript Catchup @ 1PM)
+How to do string concatenation.
+How to use boolean.
+How to use variables.
+
+More examples on how to concatenate variables and strings.
+We learnt how to do percentages, use toFixed() parameter.
+Do not use the % symbol for calculating percentages as that is a symbol for modulus.
+
