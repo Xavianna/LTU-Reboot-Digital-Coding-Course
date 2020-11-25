@@ -250,4 +250,4 @@ Add space before and after string if a space is needed.
 
 Combining Strings and Numbers using concatenate operator. Creating variables with strings and numbers and + to join them together.
 
-Learnt to use the toFixed() parameter as well.
+Learnt to use the toFixed() parameter as well. https://www.w3schools.com/jsref/jsref_tofixed.asp
