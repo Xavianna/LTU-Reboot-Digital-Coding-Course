@@ -262,3 +262,67 @@ More examples on how to concatenate variables and strings.
 We learnt how to do percentages, use toFixed() parameter.
 Do not use the % symbol for calculating percentages as that is a symbol for modulus.
 
+
+Lessson 1.12
+
+Check on yesterday's task
+https://codepen.io/pixel_to_code/pen/xxOQdwR?editors=0010
+
+Declare function.
+Call function by calling its name.
+
+Can use single quotes or double quotes.
+
+
+name of function - camel casing
+
+
+Ignores the console log and look at the return function.
+return will immediately end a function.
+
+Global scope variable - Available for anything in our project
+
+If a variable is inside the function, it cannot be accessed by the global scope.
+Local scope - It's local to that function.
+
+To access Local Scope - perform a return in the function so the function can be called.
+
+Global scopes are better hidden if possible to prevent hackers from gaining access.
+
+Some values that are considered false (falsy) or true (truthy) - Boolean context.
+
+We learnt about Boolean values.
+
+We learnt about conditioning (IF statement). If statement is true then it will be executed.
+
+
+
+Lesson 1.12 (Javascript Catchup @ 1PM)
+Continued with if statement (conditioning).
+https://www.w3schools.com/js/js_hoisting.asp
+
+More control flow - If, Else statement covered. ElseIf statement was mentioned and an example shown (alternative condition).
+Additional conditioning. Else is to catch anything else/errors.
+
+
+Logical operators - temperature < 50 || temperature >40 for example.
+
+*check on Task 3.2.6
+
+parameter - the value the function requires to work.
+arguments - the values used in the parameters.
+
+
+Switch Statements
+Switch statements in Javascript are similar to IF statements.
+
+Switch statements can be declared to cover a number of different outcomes (cases) on a given variable.
+
+IF ELSE statements can also be used to have logic that doesn't apply to the same variable where as switch statements are the values of the same logic.
+
+If you are always going to be providing an output based on the same input then switch statements are simplert to read and write than IF ELSE statements.
+
+We learnt how to use switch statements.
+Learnt about using break; and continue; for switch statements.
+https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html#if-else_versus_switch
+
