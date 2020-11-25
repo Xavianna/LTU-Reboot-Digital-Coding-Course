@@ -13,7 +13,6 @@ if(temperature < 0) {
 } else{
 
     console.log('No need to wear your hats and coat, its lovely weather outside.');
-
 }
 
     // else if (temperature != 50){
