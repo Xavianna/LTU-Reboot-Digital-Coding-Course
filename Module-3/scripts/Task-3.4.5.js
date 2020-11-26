@@ -5,9 +5,15 @@ var recipe = {
         'flour', 
         'eggs', 
         'milk'],
-    directions: 'Mix ingredients together and let settle for half an hour.'
+    directions: ['Mix ingredients together and let settle for half an hour.'],
 
-},
+    letsCook : function() {
+        /*I'm hungry! Let's cook...with the name of your receipe title. Call your new method*/
+        console.log ("I'm hungry! Let's cook " + recipe.title);
+    }
+}
+
+recipe.letsCook();
 
 // console.log(recipe.title);
 // console.log(recipe.servings);
@@ -20,10 +26,6 @@ var recipe = {
 // }
 
 
-letsCook = function() {
-    /*I'm hungry! Let's cook...with the name of your receipe title. Call your new method*/
-    console.log("I'm hungry! Let's cook " + recipe.title);
-}
 
-// recipe.letsCook();
+
 
