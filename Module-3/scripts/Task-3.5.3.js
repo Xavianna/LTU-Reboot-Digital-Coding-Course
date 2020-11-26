@@ -66,7 +66,15 @@ function discount( arr, discountAmount, type ){ //1. Create a function that take
 
     //3. Loop through each item of the array and adding the value of the item to the total price
     for ( let index = 0; index < arr.length; index++ ){ //let parameter when something is going to change.
-        
+       
+        if ( arr[index].type === type ){
+            let discount = ( arr[index].price * discountAmount ) / 100; //BODMAS
+
+            totalPrice = totalPrice + ( arr[index].price - discount ) * arr[index].quantity;
+        } else {
+
+            totalPrice = totalPrice + (arr[index].price * arr[index].quantity); //Accessing an array put in []; BODMAS
+        }
         
     }
 
@@ -74,6 +82,12 @@ function discount( arr, discountAmount, type ){ //1. Create a function that take
     return totalPrice.toFixed(2);
 }
 
-let message = 'Your discounted price comes to: £';
+// let message = 'Your discounted price comes to: £';
+ 
+let shoppingFood = discount ( shoppingCart, 20, 'food');
+let shoppingAlcohol = discount ( shoppingCart, 20, 'alcohol');
+let shoppingHome = discount ( shoppingCart, 20, 'home');
 
-console.log(message + discount ( shoppingCart )); //results should be £35.37
+console.log( shoppingFood );
+console.log( shoppingAlcohol );
+console.log( shoppingHome );
