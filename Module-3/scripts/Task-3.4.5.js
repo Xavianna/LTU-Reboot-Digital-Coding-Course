@@ -20,7 +20,7 @@ var recipe = {
 // }
 
 
-letsCook: function() {
+letsCook = function() {
     /*I'm hungry! Let's cook...with the name of your receipe title. Call your new method*/
     console.log("I'm hungry! Let's cook " + recipe.title);
 }
