@@ -76,4 +76,4 @@ function shoppingCartTotalPrice( arr ){ //1. Create a function that takes 1 para
 
 let message = 'The cost of all your items comes to: £';
 
-console.log(message + shoppingCartTotalPrice ( shoppingCart ));
+console.log(message + shoppingCartTotalPrice ( shoppingCart )); //results should be £39.37
