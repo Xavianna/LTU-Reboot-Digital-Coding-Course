@@ -326,3 +326,50 @@ We learnt how to use switch statements.
 Learnt about using break; and continue; for switch statements.
 https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/ch04.html#if-else_versus_switch
 
+
+Lesson 1.13
+
+While Loops - will repeat the same code over and over until some condition is met.
+
+For Loops - very similar to while loops but you declare a counter in the statement (iterative).
+
+Arrays - Ordered lists of values.
+
+var arrayName = [value0, value1];
+
+arrayName.length - To specify the length based on the array (failsafe).
+
+Arrays + Loops = BFFs (will always see array + loops together)
+
+Adding a break in document.write but not good practice.
+
+Objects - Let us store a collecion of properties.
+
+In the background it adds the quotations to the object names.
+
+We can change/add the properties by doing varName.objectName = 'blah';
+
+We can have functions inside of objects. Also how to show an array using objects.
+
+
+Lesson 1.13 (Additional)
+
+Object Methods - Can also hold functions.
+
+Fix 3.4.5 (fixed: directions need to be placed into an array. Then letsCook function needs to be below the array directions.)
+
+Let is the one that allows you to change a value.
+
+const - constant doesn't let you change the variable.
+
+Accessing an array put in []. Example Task 3.5.1
+https://codepen.io/pixel_to_code/pen/JjXwNKV
+
+
+Fix 3.5.2 - Amount is different. Fixed brackets issue - if ( arr[index.type === 'food'] ) to if ( arr[index].type === 'food' )
+
+Tried task 3.5.3 - added 2 arguments, rearranged some parameters to provide more generic calculations and displaying discounted amounts for all the different item types.
+
+What I found difficult in this lesson was trying to remember how to call the different functions and in which order. Also, getting used to the syntax again.
+
+What I found useful was to revisit loop functions especially for loops where it is iterative.
