@@ -4,6 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Task 3.7</title>
+    <style>
+        img {
+            width: 400px;
+        }
+
+        .active{
+            background-color: orange;
+            color: blue; 
+        }
+    </style>
 </head>
 <body>
     <section class="main">
@@ -11,20 +21,36 @@
         <div class="container">
             <h1>Animal Filter Using JS</h1>
 
-        </div>
+            <div class="selection-container">
+                <!-- There are 2 classes in this button "selection" and "active". It will display all the images until number button is pressed. -->
+                <button class="selection active" data-class="all">ALL</button>
+                <button class="selection" data-class="tigers">Tigers</button>
+                <button class="selection" data-class="lions">Lions</button>
+                <button class="selection" data-class="penguins">Penguins</button>
+                <button class="selection" data-class="elephants">Elephants</button>
+    
+            </div>
+        </div> <!-- End of container -->
 
-        <div class="selection-container">
-            <!-- There are 2 classes in this button "selection" and "active" -->
-            <button class="selection active" data-class="all">ALL</button>
-            <button class="selection" data-class="tigers">Tigers</button>
-            <button class="selection" data-class="lions">Lions</button>
-            <button class="selection" data-class="penguins">Penguins</button>
-            <button class="selection" data-class="elephants">Elephants</button>
+        <div class="image-selections">
+            <div class="images" data-class="elephants">
+                <img src="https://bit.ly/3nlr0tQ" alt="Elephants">
+            </div>
 
-        </div>
+            <div class="images" data-class="tigers">
+                <img src="https://bit.ly/2GbdxEh" alt="">
+            </div>
 
-        
+            <div class="images" data-class="penguins">
+                <img src="https://bit.ly/3nbEaJS" alt="">
+            </div>
 
+            <div class="images" data-class="lions">
+                <img src="https://bit.ly/3cXkch5" alt="">
+            </div>
+            
+
+        </div> <!-- End of image-selections -->
 
     </section>
     
