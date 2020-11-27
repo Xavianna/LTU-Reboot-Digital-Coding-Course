@@ -5,7 +5,11 @@
 // pageBody.style.paddingTop = '10px';
 
 let anchorTag = document.querySelector('a');
-    anchorTag.setAttribute('href', 'www.google.com');
+    anchorTag.setAttribute('href', 'http://www.google.com');
 
 let paragraph = document.querySelectorAll('p')[0];
-    paragraph.setAttribute('')
+    paragraph.style.color = 'green';
+
+let unorderedList = document.querySelector('ul');
+
+    unorderedList.style.backgroundColor = 'blue';
