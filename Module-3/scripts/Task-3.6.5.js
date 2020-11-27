@@ -8,13 +8,16 @@ let input = document.querySelector('input');
 
 let button = document.querySelector('button');
 
-    button.addEventListener('click', function(event){
+    button.addEventListener('click', function( event ){
         
             event.preventDefault();
-            div.textContent = 'Hello' + input.value;
 
-            div.textContent = input.value;
+            div.textContent = 'Hello ' + input.value;
         // console.log(input.value);
         // document.write(input.value);
     });
+
+    
+    // let div = document.querySelector('div');
+    //     div.innerHTML = input.value;
 
