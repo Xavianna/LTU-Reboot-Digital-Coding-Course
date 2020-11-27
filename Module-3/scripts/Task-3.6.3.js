@@ -12,3 +12,12 @@ var sayHi = function(event){
 };
 
 button.addEventListener('click', sayHi);
+
+
+var button = document.getElementById("tickleBtn");
+
+var sayTickle = function(event){
+    alert("That tickles!");
+};
+
+button.addEventListener('mouseover', sayTickle);
