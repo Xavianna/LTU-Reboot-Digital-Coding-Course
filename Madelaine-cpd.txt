@@ -373,3 +373,118 @@ Tried task 3.5.3 - added 2 arguments, rearranged some parameters to provide more
 What I found difficult in this lesson was trying to remember how to call the different functions and in which order. Also, getting used to the syntax again.
 
 What I found useful was to revisit loop functions especially for loops where it is iterative.
+
+
+Lesson 1.14 (Javascript DOM)
+
+<Catch up/recap>
+ID = applies to 1 element on the webpage.
+Class = multitude of elements for the same style set.
+Nesting - all elements of the page next inside one another - a span might be inside a link, that is inside a paragraph, that is inside a div, inside a section, inside the body, inside the HTML.
+HTML
+Head
+Body
+	Header
+	Main
+		Paragraph
+			Link
+				Span
+		Paragraph
+	Footer
+
+The DOM Tree - what is above is referred to as a Document Object Model.
+It is not something that you can visually see but that's how JavaScript will see and work down the tree.
+
+HTML elements are referred to as DOM nodes. JavaScript is quite powerful.
+
+JavaScript
+	Access to DOM by ID - getElementByID('IdTag');
+	Access the DOM by Tag Name - getElementByTagName('li');
+		declare the list as a variable before using the getElementByTagName
+		There will be an array - to display the list.
+		
+HTML - new browsers can use methods getElementByClassName, querySelector and querySelectorAll.
+
+getElement - return a single node.
+getElements - will return an array of nodes.
+
+
+Getting & sharing attributes  - DOM.html & DOM.js
+getAttribute
+setAttribute
+
+DOM Nodes - Styles: Bridging between CSS and JavaScript.
+
+DOM Nodes - Styles Extra
+	declaredVar.style.backgroundColor = 'red';
+	declaredVar.style.paddingTop = '10px';
+
+
+
+
+Task 3.5.2
+https://codepen.io/pixel_to_code/pen/JjXwNKV
+
+Will go through Task 3.5.3 during catch up session.
+
+Task 3.6.1 (Look at this again as not finished - Done)
+Task 3.6.2 (Done)
+
+Event is an object that is sent when action take place on your webpage.
+e.g. JavaScript creates an event when a user clicks an element.
+
+There are many types of events.
+
+If you create a function to declare the variable then you can reuse the function in more places.
+
+3.6.3 Task (Error Issue - fixed, error was due to case sensitive of the ID tag)
+
+
+Lesson 1.14 (Additional Lesson)
+Preventing Defaults - Elements like links and checkboxes have default behaviours determined by the browser.
+However, the event object has a built-in method to prevent the default behavious.
+
+Listening out to people clicking on the link. Stopping people from clicking/going to another link.
+
+Look up currentTarget or this keyword as a target - refers to many different things.
+
+Forms - We can collect info from our users to use in our code - most commonly this is done through HTML forms.
+	Label tag- So the user know what they need to input.
+	Input tag has different types:
+		type "text"
+		type "numbers"
+		type "radio" (create circle dot - value "Yes"/"No" etc. Check = if it is highlighted.
+		type "submit"
+
+e.g.
+	var name = document.getElementById('idTag').value;
+	console.log(name);
+
+e.g. Radio Buttons
+var radios = document.getElementsByName('married')
+
+var length = radios.length;
+
+for (var i = 0; i < length; i++)
+{
+	if(radios[i].checked){
+	var radioButtonValue = radios[i].value;
+	//only one radio can be checked, so stop now
+	
+	break;
+	}
+}
+
+e.g. Submit Buttons
+
+var submitButton = document.getElementById('submitBtn);
+
+submitButton.addEventListener("click", function(event)
+{
+	event.preventDefault();
+	
+	var name = document.getElementById('firstName').value;
+	console.log (name);
+})
+
+data-class - An extra lets us add/set our own attributes. To create our own for individual purposes.
