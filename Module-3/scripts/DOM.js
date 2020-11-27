@@ -27,3 +27,16 @@ console.log( listItems [1]);
 let itemClass = document.getElementsByClassName('item');
 
 console.log( itemClass );
+
+let image = document.getElementById ('image'); //If using querySelector('#image') need to get the image by ID using the hashtag.
+
+//Will return HTML tag of image
+console.log( image );
+
+//Will return just the image source link
+console.log( image.src );
+
+//Will return the alt set for the image
+console.log( image.alt );
+
+image.src = 'https://images.unsplash.com/photo-1606324879482-7f986b3058fa?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8NnNNVmpUTFNrZVF8fGVufDB8fHw%3D&auto=format&fit=crop&w=700&q=60'; //used DOM to manipulate the image displayed
