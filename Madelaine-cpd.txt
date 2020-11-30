@@ -488,3 +488,107 @@ submitButton.addEventListener("click", function(event)
 })
 
 data-class - An extra lets us add/set our own attributes. To create our own for individual purposes.
+
+
+Lesson 1.15
+
+We went through the JavaScript code to display images on the HTML, task 3.7.
+Const - Constant (Something that doesn't change and will remain the same e.g. Date of birth.)
+
+Let - Let (Something that could possibly change such as a counter or age etc.)
+
+
+listItems = refers to button in html code.
+allimages = refers to image-selections class.
+
+The next function is used to check all the buttons and class active. To check if all the button is active/selected. Silent class.
+Which button is currently active & selected.
+
+forEach function - Its applying to each button, remove active and adding active to the new selected button.
+
+classList (new, to read on MDN)
+
+toggleImages = Either showing or not showing images. Grabbing forEach, produce the .style and display the image - image.style.display= 'block'; (image set to block).
+If all isn't blocked, it goes through all the images, uses a for loop (arrow function), a different way of doing if else operation known as ternary operator.
+
+We get a button and added an eventListener function. Picking the item to display and toggle images from the dataClass.
+
+
+
+MDN (Modzilla Development Network) - To search for JavaScript terms.
+It explains what the parameters are used for in JavaScript and how to use it.
+
+https://developer.mozilla.org/en-US/
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes (Good article about dataset).
+
+
+SSG (Static Site Generators)
+To make our websites generate smoother.
+
+Typically a website live (hosted) on a web server and they are often large computers connected to a network.
+
+The server processes your request and finds the right files. Sometimes it has to "compile" a page from code and other sources, like a database.
+
+Your browser interprets the code to display it.
+
+
+
+
+Dynamic vs Static Website
+The ones we have been working on are Static Website.
+
+Word press/Wix/Square Space - Dynamic Website.
+Dynamic Website is like a kiosk, can I have the latest news, they'll walk to the back of the shop where someone else is sitting, to find out the latest news then they'll take notes (note form, make it pretty, put titles on etc) to pass on to the first person in the shop to pass the info to us.
+
+Static Website - All the newspaper is already available there for you to pick up. All the background stuff completed.
+
+Dynamic site is slower than static site.
+
+E.g. of dynamic site = Facebook/social media. It can crash if there are too many people accessing the info.
+
+Prestashop is good to use.
+
+
+We will be using Jekyll today. This can be used straight in Github.
+
+https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=emb_logo
+
+The video above is about github pages.
+
+How to setup a Jekyll site on a project on GitHub pages.
+You can share the site to other people straightaway.
+
+
+Readme - tells people about your project.
+
+
+https://pixel2code.github.io/jekyll-demo/
+
+
+Advantages of Static Website 
+1) Speed
+2) Version control of content
+3) Security: Less easy to hack
+4) Less hassle with the server
+5) Traffic surges
+
+JamStack
+
+https://www.netlify.com/
+
+Task 4.1.1 - Create Github pages & Netlify
+Task 4.1.2 - Build profile page of me. Don't use profile.html (Take home task)
+What we are expecting:
+- Image (of you).
+- Intro text or mini .
+- Link to GitHub profile.
+- Link to your CodePen profile.
+- Links to your other social profiles. LinkedIn Twitter etc.
+- Anything else.... some examples to follow.
+
+Promote MadeFromStitches.
+
+Connect to Bootstrap - https://getbootstrap.com/
+
+Put own stylesheets after the Bootstrap ones. Otherwise, it will stop the Bootstrap ones from working.
