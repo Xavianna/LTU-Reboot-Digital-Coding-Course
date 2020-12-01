@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 4.2.2 Reading List Pseudocode</title>
+</head>
+<body>
+    <!--
+        1) Reading List
+
+        Keep track of what books I have read and ones I have not
+        Show the book title and author of each book
+
+        Depending if I have read or not, show the following messages
+
+        You have already read BOOK TITLE by AUTHOR
+
+        You have not read BOOK TITLE by AUTHOR
+
+        1. create list of books.
+        2. cycle through the list of books
+        3. show whether or not I have read the book
+
+    -->
+
+    <script>
+
+        let books = [
+            {
+                title: 'Lord of the rings',
+                author: 'J.R.R Tolkien',
+                hasRead: false
+            },
+            {
+                title: 'Harry Potter',
+                author: 'J.K. ROWLING',
+                hasRead: true
+            }
+        ];
+
+        for ( let index = 0; index < books.length; index++ ){
+
+            // console.log( books[index]);
+            // console.log( books[index].author);
+            // console.log( books[index].title);
+            // console.log( books[index].hasRead);
+
+            if (books[index].hasRead){
+
+                console.log(books[index].title);
+                console.log(books[index].author);
+            }
+
+        }
+
+    </script>
+</body>
+</html>
