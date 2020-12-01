@@ -592,3 +592,55 @@ Promote MadeFromStitches.
 Connect to Bootstrap - https://getbootstrap.com/
 
 Put own stylesheets after the Bootstrap ones. Otherwise, it will stop the Bootstrap ones from working.
+
+
+
+Lesson 1.16
+Pseudocode Lesson
+
+What is a variable? Define a container or label to store data.
+
+What are Loops? Iteration (for, while loop). Showing Dates.
+
+What are Arrays? A list (numbers, strings, objects).
+
+What are Objects? Something that can have multiple values. Similar to Arrays.
+
+What are Functions? To reduce repetition. Instructions/Commands. One particular task only in 1 fuction. Split it for multiple functions.
+
+What is a Control Flow? Conditioning if/else/else if, switch statements.
+
+What is pseudocode? It is a simpler version of programming code - in plain English. Breaking problems down with logic.
+
+Focus on the problem
+Communication and discussion
+Anticipate problems/issues/questions
+
+Check with other people who don't know programming.
+
+It's not going to do any harm, even if you can see the algorithmic solution in your head straight up.
+Makes your codes less error prone.
+
+How to write Pseudocode? There's no syntax.
+1) CAPITALISE Key commands. (IF number > 100 THEN do this).
+2) Write one statement per line.
+3) Use indentation and spacing.
+4) Be specific.
+5) Keep it simple - non techy.
+
+Fizz Buzz
+Write a program that prints the numbers from 1 to 11. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz".
+For numbers which are multiples of both three and five print "FizzBuzz".
+
+Pseudocode
+Write a program that prints each number from 1 - 100 on a new line.
+
+For each multiple of 3, print "FIZZ" instead of the number.
+
+For each multiple of 5, print "BUZZ" instead of the number.
+
+For numbers that are multiples of 3 and 5, print "FIZZ BUZZ" instead of the number.
+
+Any other number will print out just the number.
+
+We did tasks 4.3.1 & 4.2.2 today to practice on Pseudocodes.
