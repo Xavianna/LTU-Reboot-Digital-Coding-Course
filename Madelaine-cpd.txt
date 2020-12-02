@@ -644,3 +644,28 @@ For numbers that are multiples of 3 and 5, print "FIZZ BUZZ" instead of the numb
 Any other number will print out just the number.
 
 We did tasks 4.3.1 & 4.2.2 today to practice on Pseudocodes.
+
+
+Lesson 1.17
+
+Working with Git
+
+working directory --> git add --> staging area --> git commit --> repository
+
+
+Branching lesson
+We learnt how to create our own individual branches, committing changes - pushing and pulling the repository.
+
+
+Tip
+If it seems difficult to summarize what your commit does, it may be because it includes several logical changes or bug fixes.
+Better split up into several commits using git add -p.
+
+Cannot remove old gits/submits from previous uploads.
+You can still set it to private.
+
+
+Band landing tribute page (Team Work)
+
+We chose Queen the band.
+https://github.com/pixel2code/band-tribute-landing-page/tree/main
