@@ -669,3 +669,45 @@ Band landing tribute page (Team Work)
 
 We chose Queen the band.
 https://github.com/pixel2code/band-tribute-landing-page/tree/main
+
+
+
+Lesson 1.18 (Final - Future Development)
+
+Code at least 5-10 minutes a day.
+https://www.100daysofcode.com/
+
+Apprenticeship scheme.
+https://thecodersguild.org.uk/
+
+Youtube
+- Fun Fun Function: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+- JavaScript to make rock paper scissor game.
+- Free Code Camp: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+- CrashCourse: Computer Science
+- Geek Gurl Diaries: https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ
+- JSConf: https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA
+- Traversy Media: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+- Net Ninja: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+- W3Schools: https://www.youtube.com/channel/UCv9bWHC0DIn-Xb7ALNoOGWQ
+
+
+https://roadmap.sh/
+
+
+https://scrimba.com/
+
+https://codepen.io/kes-trel/pen/yLJdZpo
+
+https://developer.mozilla.org/en-US/
+
+https://northcoders.com/
+
+https://dev.to/
+
+https://www.amazon.co.uk/s?k=javascript+%26+jquery+jon+duckett&adgrpid=58663651172&gclid=Cj0KCQiAtqL-BRC0ARIsAF4K3WHyR8yDgOCqvuiWZujIAA-bXa1OKv5-fPm9W8S_bfsRwsJt_OrcqXQaAnb8EALw_wcB&hvadid=259121098250&hvdev=c&hvlocphy=9044999&hvnetw=g&hvqmt=e&hvrand=15547021957042420592&hvtargid=kwd-353811107188&hydadcr=17639_1817796&tag=googhydr-21&ref=pd_sl_9rpw4nj2xd_e
+
+
+MongoDB - JavaScript to connect to MongoDB.
+
+https://dribbble.com/
